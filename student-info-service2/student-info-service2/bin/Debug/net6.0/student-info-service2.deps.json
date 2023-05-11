@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "student-info-service2/1.0.0": {
+        "runtime": {
+          "student-info-service2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "student-info-service2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
